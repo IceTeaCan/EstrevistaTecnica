@@ -67,6 +67,8 @@ Descargue VSCode https://code.visualstudio.com/download y realice la instalació
 Una ves realizado esto con XAMPP podrá correr su servidor donde puede ejecutar el php en su navegador, es necesario una ves levantado el recurso de apache ingresar al navegador y escribir "localhost" en la barra de buscador
 Debera descargar algunos otros elementos para la correcta configuracion de plugins conmo Xdebug para utilizarlo en VSCode y debuguear si asi lo necesita https://www.youtube.com/watch?v=TexkCrk6njc
 
+Es importante haber ejecutado el script de sql para tener todas las tablas y stored procedures listos antes de iniciar el proyecto
+Así tambien revisar su metodo de autentificación de sql y seguir lo explicado en la capa Data en ConexionBD para su correcto funcionamiento
 Para ejecutar el proyecto se debe tener alojado en la carpeta "C:\xampp\htdocs" el proyecto a utilizar 
 Una vez realizado estos pasos abra el XAMPP en su navegador usando el método explicado anteriormente y ejecute "http://localhost/EduCamp/EduCampPHP/FrontEnd/index.php" en su navegador o con solo entrar a la carpeta FrontEnd deberia abrir el index automaticamente
 
